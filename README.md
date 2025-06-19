@@ -10,12 +10,12 @@ A simple face recognition app that detects and highlights faces in uploaded imag
 ## Tech Stack
 - React.js (Frontend)
 - Node.js + Express.js
-- OpenCV or face-api.js (Model)
+- face-api.js (Model)
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/snapsage.git
-cd snapsage
+git clone https://github.com/Ronel1409/snapsage.git
+cd facesnap
 npm install
 npm start
