@@ -1,7 +1,4 @@
-### **Face Recognition App – Facesnap**
-
-```markdown
-# SnapSage
+# Facesnap
 
 A simple face recognition app that detects and highlights faces in uploaded images using a pre-trained ML model.
 
